@@ -863,6 +863,7 @@ a:hover {
     }
 
     .home__link{
+        display: inline-block;
         max-width: 100%;
     }
 
