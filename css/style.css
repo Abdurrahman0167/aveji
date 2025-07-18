@@ -855,6 +855,22 @@ a:hover {
     .copy {
         grid-column: 1 / 5;
     }
+
+    .home__link,
+    .order__button {
+        font-size: 1.2rem;
+
+    }
+
+    .home__link{
+        max-width: 100%;
+    }
+
+    .order__button{
+        width: 180px;
+        padding: 1.2rem 1.6rem ;
+    }
+    
 }
 
 
