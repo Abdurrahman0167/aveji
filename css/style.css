@@ -858,19 +858,18 @@ a:hover {
 }
 
 
-@media (max-width: 390px) {
+@media (max-width: 450px) {
     .feedback__item {
         padding: 1.6rem 1.6rem 2.7rem;
     }
 
     .home__link,
     .order__button {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
 
     }
 
     .home__link{
-        display: inline-block;
         max-width: 100%;
     }
 
