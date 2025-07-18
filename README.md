@@ -24,4 +24,4 @@
 - `img/` — изображения
 
   ## 🔍 ссылка
-  [смотреть]https://abdurrahman0167.github.io/aveji/ )
+  [смотреть](https://abdurrahman0167.github.io/aveji/ )
