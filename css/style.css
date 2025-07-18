@@ -864,7 +864,7 @@ a:hover {
 
     .home__link{
         display: inline-block;
-        max-width: 100%;
+        max-width: 16.5rem;
     }
 
     .order__button{
