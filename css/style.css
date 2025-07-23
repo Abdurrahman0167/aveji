@@ -664,6 +664,10 @@ a:hover {
 
 @media (max-width: 950px) {
 
+    .title{
+        font-size: 3.2rem;
+    }
+
     .container {
         padding: 0.8rem 1.2rem;
     }
